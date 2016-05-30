@@ -1,0 +1,10 @@
+configparser
+logging
+requests
+requests[security]
+simplejson
+GitPython
+relayr
+paho-mqtt
+socketIO_client
+certifi
